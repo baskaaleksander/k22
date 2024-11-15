@@ -1,0 +1,15 @@
+D:\school\oop\k22\zadanie_interface\bin\Debug\net8.0\zadanie_interface.exe
+D:\school\oop\k22\zadanie_interface\bin\Debug\net8.0\zadanie_interface.deps.json
+D:\school\oop\k22\zadanie_interface\bin\Debug\net8.0\zadanie_interface.runtimeconfig.json
+D:\school\oop\k22\zadanie_interface\bin\Debug\net8.0\zadanie_interface.dll
+D:\school\oop\k22\zadanie_interface\bin\Debug\net8.0\zadanie_interface.pdb
+D:\school\oop\k22\zadanie_interface\obj\Debug\net8.0\zadanie_interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\school\oop\k22\zadanie_interface\obj\Debug\net8.0\zadanie_interface.AssemblyInfoInputs.cache
+D:\school\oop\k22\zadanie_interface\obj\Debug\net8.0\zadanie_interface.AssemblyInfo.cs
+D:\school\oop\k22\zadanie_interface\obj\Debug\net8.0\zadanie_interface.csproj.CoreCompileInputs.cache
+D:\school\oop\k22\zadanie_interface\obj\Debug\net8.0\zadanie_interface.sourcelink.json
+D:\school\oop\k22\zadanie_interface\obj\Debug\net8.0\zadanie_interface.dll
+D:\school\oop\k22\zadanie_interface\obj\Debug\net8.0\refint\zadanie_interface.dll
+D:\school\oop\k22\zadanie_interface\obj\Debug\net8.0\zadanie_interface.pdb
+D:\school\oop\k22\zadanie_interface\obj\Debug\net8.0\zadanie_interface.genruntimeconfig.cache
+D:\school\oop\k22\zadanie_interface\obj\Debug\net8.0\ref\zadanie_interface.dll
