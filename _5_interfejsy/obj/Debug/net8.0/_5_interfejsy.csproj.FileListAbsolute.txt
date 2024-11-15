@@ -1,0 +1,15 @@
+D:\school\oop\k22\_5_interfejsy\bin\Debug\net8.0\_5_interfejsy.exe
+D:\school\oop\k22\_5_interfejsy\bin\Debug\net8.0\_5_interfejsy.deps.json
+D:\school\oop\k22\_5_interfejsy\bin\Debug\net8.0\_5_interfejsy.runtimeconfig.json
+D:\school\oop\k22\_5_interfejsy\bin\Debug\net8.0\_5_interfejsy.dll
+D:\school\oop\k22\_5_interfejsy\bin\Debug\net8.0\_5_interfejsy.pdb
+D:\school\oop\k22\_5_interfejsy\obj\Debug\net8.0\_5_interfejsy.GeneratedMSBuildEditorConfig.editorconfig
+D:\school\oop\k22\_5_interfejsy\obj\Debug\net8.0\_5_interfejsy.AssemblyInfoInputs.cache
+D:\school\oop\k22\_5_interfejsy\obj\Debug\net8.0\_5_interfejsy.AssemblyInfo.cs
+D:\school\oop\k22\_5_interfejsy\obj\Debug\net8.0\_5_interfejsy.csproj.CoreCompileInputs.cache
+D:\school\oop\k22\_5_interfejsy\obj\Debug\net8.0\_5_interfejsy.sourcelink.json
+D:\school\oop\k22\_5_interfejsy\obj\Debug\net8.0\_5_interfejsy.dll
+D:\school\oop\k22\_5_interfejsy\obj\Debug\net8.0\refint\_5_interfejsy.dll
+D:\school\oop\k22\_5_interfejsy\obj\Debug\net8.0\_5_interfejsy.pdb
+D:\school\oop\k22\_5_interfejsy\obj\Debug\net8.0\_5_interfejsy.genruntimeconfig.cache
+D:\school\oop\k22\_5_interfejsy\obj\Debug\net8.0\ref\_5_interfejsy.dll
