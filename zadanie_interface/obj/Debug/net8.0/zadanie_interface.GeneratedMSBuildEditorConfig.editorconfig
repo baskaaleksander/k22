@@ -11,3 +11,5 @@ build_property.RootNamespace = zadanie_interface
 build_property.ProjectDir = D:\school\oop\k22\zadanie_interface\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 

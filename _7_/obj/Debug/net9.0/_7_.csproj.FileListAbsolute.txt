@@ -1,0 +1,15 @@
+D:\school\oop\k22\_7_\bin\Debug\net9.0\_7_.exe
+D:\school\oop\k22\_7_\bin\Debug\net9.0\_7_.deps.json
+D:\school\oop\k22\_7_\bin\Debug\net9.0\_7_.runtimeconfig.json
+D:\school\oop\k22\_7_\bin\Debug\net9.0\_7_.dll
+D:\school\oop\k22\_7_\bin\Debug\net9.0\_7_.pdb
+D:\school\oop\k22\_7_\obj\Debug\net9.0\_7_.GeneratedMSBuildEditorConfig.editorconfig
+D:\school\oop\k22\_7_\obj\Debug\net9.0\_7_.AssemblyInfoInputs.cache
+D:\school\oop\k22\_7_\obj\Debug\net9.0\_7_.AssemblyInfo.cs
+D:\school\oop\k22\_7_\obj\Debug\net9.0\_7_.csproj.CoreCompileInputs.cache
+D:\school\oop\k22\_7_\obj\Debug\net9.0\_7_.sourcelink.json
+D:\school\oop\k22\_7_\obj\Debug\net9.0\_7_.dll
+D:\school\oop\k22\_7_\obj\Debug\net9.0\refint\_7_.dll
+D:\school\oop\k22\_7_\obj\Debug\net9.0\_7_.pdb
+D:\school\oop\k22\_7_\obj\Debug\net9.0\_7_.genruntimeconfig.cache
+D:\school\oop\k22\_7_\obj\Debug\net9.0\ref\_7_.dll

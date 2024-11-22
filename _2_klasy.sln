@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_5_interfejsy", "_5_interfe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zadanie_interface", "zadanie_interface\zadanie_interface.csproj", "{0AE9B3E1-AC71-4C9E-9A02-DECD95163C6A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_6_", "_6_\_6_.csproj", "{80BA1B31-64CB-4A46-8908-18FCBB2501E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_7_", "_7_\_7_.csproj", "{97CA90F2-45A4-48F0-9361-4FC5BADF6FA3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +46,13 @@ Global
 		{0AE9B3E1-AC71-4C9E-9A02-DECD95163C6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0AE9B3E1-AC71-4C9E-9A02-DECD95163C6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0AE9B3E1-AC71-4C9E-9A02-DECD95163C6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80BA1B31-64CB-4A46-8908-18FCBB2501E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80BA1B31-64CB-4A46-8908-18FCBB2501E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80BA1B31-64CB-4A46-8908-18FCBB2501E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80BA1B31-64CB-4A46-8908-18FCBB2501E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97CA90F2-45A4-48F0-9361-4FC5BADF6FA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97CA90F2-45A4-48F0-9361-4FC5BADF6FA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97CA90F2-45A4-48F0-9361-4FC5BADF6FA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97CA90F2-45A4-48F0-9361-4FC5BADF6FA3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
